@@ -1,0 +1,2 @@
+D:\Universidad\Programacion 1\EXAMEN PARCIAL\EXAMEN PARCIAL\x64\Debug\EXAMEN PARCIAL.vcxproj.AssemblyReference.cache
+D:\Universidad\Programacion 1\EXAMEN PARCIAL\EXAMEN PARCIAL\x64\Debug\EXAMEN PARCIAL.vcxproj.SuggestedBindingRedirects.cache

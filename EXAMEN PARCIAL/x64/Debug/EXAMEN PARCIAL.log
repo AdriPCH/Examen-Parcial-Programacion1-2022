@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Universidad\Programacion 1\EXAMEN PARCIAL\EXAMEN PARCIAL\Source.cpp(31,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\Universidad\Programacion 1\EXAMEN PARCIAL\EXAMEN PARCIAL\Source.cpp(36,26): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  EXAMEN PARCIAL.vcxproj -> D:\Universidad\Programacion 1\EXAMEN PARCIAL\x64\Debug\EXAMEN PARCIAL.exe
